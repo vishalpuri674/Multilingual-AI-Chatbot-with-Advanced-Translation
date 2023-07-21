@@ -1,0 +1,9 @@
+flask==2.3.2
+langchain
+google-cloud-texttospeech
+openai
+chromadb
+tiktoken
+flask-cors
+pydub
+ffmpeg

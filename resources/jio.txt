@@ -1,0 +1,127 @@
+Jio is a leading telecom operator which operates in India. It has its presence across 23 states include Jammu & kashmir, Arunachal Pradesh. and Nagaland. 
+Jio provides voice call, internet, and fiber services.
+Jio sims are very easy to get. For a new sim, you can download MyJio app and get a sim delivered to your home. The documents needed for a new sim are an ID proof (UIDAI Issued adhaar card, PAN card, passport, voter Id are accepted), an address proof (electricity bill, adhaar card, voter card, gas bill are accepted), and three passport sized photo. You can also visit our nearest jio store with the same set of documents for getting your sim issued. A new sim takes approximately 2-3 days for activation. Once the sim is activated, you will get a confirmation SMS from FakeJioService.
+If you are looking for porting to Jio, all you need is to send an SMS to 56767. Write "Port to jio" and send it to 56767. 
+As a new jio user, you have to recharge your sim with a recharge pack. The available recharge packs are 399Rs, 499Rs and 599Rs. Each of these packs will give you a validity of 90 days with unlimited free local and roaming calls. For 399Rs package, you will get 1.5Gb/day internet. For 599Rs package, you will get 2.5Gb/day internet. For 599Rs package, you will get 3.5Gb/day internet. 
+If you have already paid and still see your recharge as unsuccessful, we would request you to wait for at least 2hrs before moving ahead with a new recharge of the same plan. 
+If you are unable to connect to Jio internet, here are some things you can do:
+Check your data balance. Make sure you have an active data plan and that you have not exceeded your data limit. You can check your data balance by opening the MyJio app and going to the "Data Balance" section.
+Restart your device. Sometimes a simple restart can fix the problem. To restart your device, hold down the power button until the power off slider appears. Then, swipe the power off slider to the right. Once your device has restarted, try connecting to the internet again.
+Check your APN settings. Your APN settings tell your device how to connect to the internet. If your APN settings are incorrect, you may not be able to connect to the internet. To check your APN settings, open the Settings app and go to "Mobile Networks" > "Advanced" > "Access Point Names". If you are not sure how to configure your APN settings, you can contact Jio customer support for assistance.
+Move to a different location. If you are in a low-signal area, you may not be able to connect to the internet. Try moving to a different location with a stronger signal.
+Contact Jio customer support. If you have tried all of the above and you are still unable to connect to the internet, you can contact Jio customer support for assistance. You can contact Jio customer support by phone, chat, or email.
+Here are some additional tips for troubleshooting Jio internet problems:
+Make sure your device is compatible with Jio's 4G network.
+Check for software updates for your device.
+Disable any apps that you are not using.
+Clear the cache and data for your web browser.
+Try using a different web browser.
+Try connecting to a different Wi-Fi network.
+If your Jio recharge failed, you can get your money back by following these steps:
+Check your bank statement to confirm that the money has been deducted from your account.
+Contact Jio customer care and let them know that your recharge failed.
+Jio will initiate a refund process and the money will be credited back to your account within 3-10 working days.
+Here are some other things you can do to speed up the refund process:
+Provide Jio with the following details:
+Your Jio number
+The date and time of the failed recharge
+The amount that was deducted from your account
+Keep a record of all correspondence with Jio, including the date, time, and name of the customer care representative you spoke to.
+If you have not received your refund within 10 working days, you can contact Jio again and escalate the issue.
+Here are some additional tips for getting a refund from Jio:
+Be polite and patient when speaking to customer care.
+Be persistent. Don't give up until you get your refund.
+If you are not satisfied with the response you receive from customer care, you can file a complaint with the Telecom Regulatory Authority of India (TRAI).
+TRAI is the government agency that regulates the telecommunications industry in India. They can help you resolve disputes with your telecom provider.
+Here are the steps on how to file a complaint with TRAI:
+Visit the TRAI website and click on the "Complaints" tab.
+Fill out the online complaint form.
+Attach any supporting documents, such as bank statements or correspondence with Jio.
+Submit your complaint.
+TRAI will investigate your complaint and take appropriate action.
+
+Here are the steps on how to link your Jio mobile number with PAN card:
+Via MyJio App
+Open the MyJio app on your smartphone.
+Sign in to your account using your Jio mobile number and password.
+Tap on the "Profile" icon at the top right corner of the screen.
+Tap on the "Link PAN card" option.
+Enter your PAN card number and click on the "Submit" button.
+You will receive an OTP on your registered mobile number. Enter the OTP and click on the "Submit" button.
+Your PAN card will be linked to your Jio mobile number.
+Via Jio Website
+Go to the Jio website.
+Click on the "Login" button.
+Enter your Jio mobile number and password and click on the "Login" button.
+Click on the "Profile" icon at the top right corner of the screen.
+Click on the "Link PAN card" option.
+Enter your PAN card number and click on the "Submit" button.
+You will receive an OTP on your registered mobile number. Enter the OTP and click on the "Submit" button.
+Your PAN card will be linked to your Jio mobile number.
+Via Jio Customer Care
+Call Jio customer care on 1800 889 9999.
+Provide your Jio mobile number and PAN card number to the customer care executive.
+The customer care executive will link your PAN card to your Jio mobile number.
+Note:
+You can link only one PAN card to your Jio mobile number.
+If you have already linked your PAN card to another mobile number, you will need to unlink it before you can link it to your Jio mobile number.
+You can unlink your PAN card from your Jio mobile number by following the same steps mentioned above.
+You will need to provide your PAN card number and the OTP that you receive on your registered mobile number to unlink your PAN card from your Jio mobile number.
+There are a few things you can do if you are unable to make calls using Jio:
+Check your network coverage. Make sure that you are in an area with good network coverage. You can check the Jio coverage map to see if your area is covered.
+Check your balance. Make sure that you have enough balance to make calls. You can check your balance by dialing *121#.
+Restart your phone. Sometimes, a simple restart can fix the problem.
+Reset your network settings. To reset your network settings, go to Settings > System > Advanced > Reset options > Reset Wi-Fi, mobile & Bluetooth.
+Contact Jio customer care. If you have tried all of the above and you are still unable to make calls, you can contact Jio customer care for help.
+Here are some additional tips for troubleshooting call issues with Jio:
+Make sure that your phone is not in silent mode.
+Make sure that you are not in a call forwarding or call barring mode.
+Try making a call to a different number to see if the problem is with the specific number you are trying to call.
+Try restarting your router if you are using a JioFi device.
+If you have tried all of the above and you are still unable to make calls, you can contact Jio customer care for help.
+there are a few ways to check if your Jio number is successfully recharged.
+Check the MyJio app. The MyJio app is the easiest way to check your Jio balance and plan details. Once you have installed the app, open it and sign in with your Jio number and password. Your balance and plan details will be displayed on the home screen.
+Check your SMS inbox. When you recharge your Jio number, you will receive an SMS confirmation with details of your new plan. This SMS will also include a recharge reference number. You can use this reference number to check the status of your recharge online.
+Call the Jio customer care number. If you are still unsure whether your Jio number has been successfully recharged, you can call the Jio customer care number on 1800-889-9999. A customer care representative will be able to check the status of your recharge for you.
+Here are some additional ways to check your Jio balance:
+Dial 199# from your Jio number. This will bring up a menu that includes your balance, data usage, and other details.
+Send BAL to 199. This will send you a text message with your balance and data usage.
+Use the Jio website. You can also check your balance and plan details on the Jio website by logging in to your account.
+I hope this helps!
+To get a JioFiber connection, you can follow these steps:
+Check if JioFiber is available in your area. You can check the availability of JioFiber in your area by visiting the Jio website or by calling the Jio customer care number.
+Register for a JioFiber connection. You can register for a JioFiber connection online or by calling the Jio customer care number.
+Pay the installation charges. The installation charges for JioFiber are ₹1,000.
+Schedule an installation appointment. Once you have paid the installation charges, you can schedule an installation appointment with Jio.
+Receive your JioFiber equipment. On the day of the installation, a Jio representative will come to your home and install the JioFiber equipment.
+Activate your JioFiber connection. Once the JioFiber equipment has been installed, you will need to activate your connection. You can do this by calling the Jio customer care number or by logging in to your Jio account.
+Here are some of the benefits of getting a JioFiber connection:
+Superfast internet speeds. JioFiber offers internet speeds up to 1 Gbps.
+Unlimited data. JioFiber plans offer unlimited data.
+Free voice calls. JioFiber plans include free voice calls.
+OTT subscriptions. JioFiber plans include subscriptions to popular OTT apps such as Netflix, Amazon Prime Video, and Disney+ Hotstar.
+I hope this helps!
+There are two ways to track your mobile data usage in Jio network:
+Using the MyJio app:
+Download the MyJio app from the Google Play Store or the App Store.
+Open the app and sign in with your Jio mobile number and password.
+Tap on the "Check Usage" option.
+You will see a breakdown of your data usage for the current month, as well as your daily and weekly usage.
+You can also see which apps are using the most data by tapping on the "Data Usage by App" option.
+Using the Jio website:
+Go to the Jio website.
+Click on the "Login" button.
+Enter your Jio mobile number and password.
+Click on the "Login" button.
+Click on the "Usage" tab.
+You will see a breakdown of your data usage for the current month, as well as your daily and weekly usage.
+You can also see which apps are using the most data by clicking on the "Data Usage by App" option.
+In addition to tracking your data usage, you can also set data usage alerts to help you stay within your data plan. To do this, follow these steps:
+Open the MyJio app.
+Tap on the "Profile" icon.
+Tap on "Settings".
+Tap on "Data Usage".
+Tap on "Set Data Usage Alerts".
+Enter the percentage of your data plan that you want to be alerted for.
+Tap on "Submit".
+You will now receive an alert when you reach the percentage of your data plan that you set. This will help you avoid overage charges. Jio Fiber has multiple plans available. The most used plan is 999Rs plan which comes with a disney+hostar & amazon prime subscription. It also has 399Rs, 499Rs, and 1199Rs plan available. The plans might vary as per regions. For example, in Mumbai, jio fiber only supports 999rs plan.
